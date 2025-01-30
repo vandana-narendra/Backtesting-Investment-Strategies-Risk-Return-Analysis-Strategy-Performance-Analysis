@@ -1,4 +1,4 @@
-# Backtesting-Investment-Strategies-Risk-Return-Analysis-Strategy-Performance-Analysis
+# Evaluating Investment Strategies: Performance, Risk, and Sharpe Ratios Over Time
 
 This project evaluates and compares multiple investment strategies by analyzing their risk-return trade-offs, performance, and stability across different market conditions. Using Python, the project implements strategies ranging from passive index investing to elimination-based methods, providing actionable insights for diverse investor profiles.
 
