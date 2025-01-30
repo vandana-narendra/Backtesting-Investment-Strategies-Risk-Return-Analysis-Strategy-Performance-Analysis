@@ -45,13 +45,6 @@ To evaluate and optimize investment strategies by analyzing key performance metr
 
 ---
 
-## Deliverables
-
-- **Jupyter Notebook:** Contains detailed analysis, code, and visualizations.
-- **PDF Report:** A concise summary of the findings and methodology.
-
----
-
 ## Conclusion
 
 **S3 (Hybrid Momentum Strategy)** is the most suitable for balanced investors, offering the highest Sharpe Ratio. For conservative investors, **S4b (Moderate Elimination Strategy)** provides stable returns with reduced risk.
